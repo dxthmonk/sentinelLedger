@@ -1,0 +1,31 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Environment and secrets
+.env
+*.key
+*.pem
+
+# Sentinel Ledger data
+data/
+logs/
+exports/
+backups/
+hashes/
+
+# Build articfacts
+build/
+dist/
+*.spec
+
+# IDE 
+.vscode/
+.idea/
+
+# OS files 
+.DS_Store
+Thumbs.db
