@@ -1,0 +1,8 @@
+core/
+├── system_info.py       ← we have this ✅
+├── process_monitor.py   ← processes
+├── network_monitor.py   ← network activity
+├── logger.py            ← security events
+├── alerts.py            ← warnings
+├── integrity.py         ← file integrity
+└── security_score.py    ← overall assessment
